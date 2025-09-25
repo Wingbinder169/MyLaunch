@@ -1,0 +1,35 @@
+/* CSS file for AMSS's launch.html page */
+
+
+.normal_text td{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+.style7 {
+ color: #BBBBBB;
+ font-weight: bold;
+}
+.style8 {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 12px;
+ font-weight: bold;
+ color: #BBBBBB;
+}
+.style10 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+.style11 {color: #FFFFFF}
+.style13 {color: #CCCCFF; font-weight: bold; }
+.style14 {font-size: 12px; color: #FF9999;}
+
+.mini_headlines {
+ color: #CCCCCC;
+ font-weight: bold;
+ font-size: 12px;
+}
+
+/* end */.normal_text tr td p b a {
+	font-weight: bold;
+}
+.normal_text tr td p .mini_headlines a span strong {
+	font-weight: normal;
+}
